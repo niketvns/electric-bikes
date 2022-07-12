@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/electric-bikes/static/css/main.f811d03f.css",
+    "main.js": "/electric-bikes/static/js/main.cc04ffb7.js",
+    "index.html": "/electric-bikes/index.html",
+    "main.f811d03f.css.map": "/electric-bikes/static/css/main.f811d03f.css.map",
+    "main.cc04ffb7.js.map": "/electric-bikes/static/js/main.cc04ffb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f811d03f.css",
+    "static/js/main.cc04ffb7.js"
+  ]
+}
